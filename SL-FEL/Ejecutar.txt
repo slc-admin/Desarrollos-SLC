@@ -1,0 +1,3 @@
+cd C:\Users\Administrator\Documents\Desarrollos\SL-FEL
+node SL-FEL.js
+ejecutar npm i para instalar "node_modules"
